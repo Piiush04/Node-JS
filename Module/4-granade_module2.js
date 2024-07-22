@@ -1,0 +1,1 @@
+require("./granade_module1");

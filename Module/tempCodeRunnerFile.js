@@ -1,0 +1,1 @@
+writeFileSync("./Module/subfolder/result-sync.txt",`Here is the result ${first}`);
